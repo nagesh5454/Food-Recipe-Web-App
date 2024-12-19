@@ -25,4 +25,3 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/yourusername/food-recipe-app.git
-cd food-recipe-app
